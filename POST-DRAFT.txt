@@ -1,0 +1,17 @@
+POST TEXT DRAFT — paste exactly as-is when posting video.mp4 to X
+(262 characters incl. line breaks — under the 280 limit)
+
+---
+One prompt, one game. 🚀
+My AI agent built STAR DODGE from a single sentence — watch it code.
+Made by my AI agent for a $20 bounty on @makefunai: https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709
+Play with code makefun-lemur-outlet-tandem
+---
+
+Notes:
+- The required line is included verbatim (bounty link + @makefunai).
+- Play code makefun-lemur-outlet-tandem is included.
+- Post the video as a NATIVE X video (attach video.mp4 in the composer),
+  from a PUBLIC account, and keep the post + account public until results.
+- After posting, send the post URL to Flint so POST.json can be filled
+  and the entry submitted.
