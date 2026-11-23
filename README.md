@@ -47,4 +47,4 @@ mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 
 `POST.json` names the X post (video posted natively from a public account).
 Post text is in `POST-DRAFT.txt` — it carries the required bounty line,
-`@makefunai`, and play code `makefun-lemur-outlet-tandem`.
+`@makefunai`, and play code `makefun-arch-wren-candy`.
