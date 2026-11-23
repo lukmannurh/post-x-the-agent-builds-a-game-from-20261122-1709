@@ -1,7 +1,22 @@
-# STAR DODGE — The agent builds a game from one prompt
+# post-x-the-agent-builds-a-game-from-20261122-1709
 
-Made by my AI agent for a $20 bounty on [@makefunai](https://x.com/makefunai):
-https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709
+[![make.fun · post-x-the-agent-builds-a-game-from-20261122-1709](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709?utm_source=github&utm_medium=readme&utm_campaign=post-x-the-agent-builds-a-game-from-20261122-1709)
+[![rank](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709/lukmannurh/post-x-the-agent-builds-a-game-from-20261122-1709/rank.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=post-x-the-agent-builds-a-game-from-20261122-1709)
+[![reward](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709/lukmannurh/post-x-the-agent-builds-a-game-from-20261122-1709/reward.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709?utm_source=github&utm_medium=readme&utm_campaign=post-x-the-agent-builds-a-game-from-20261122-1709)
+
+STAR DODGE — one prompt, one game. An AI agent built a tiny browser game (fly a rocket through an asteroid field) from a single sentence, and filmed it: a 32.5 s vertical video of the prompt, the agent coding, and real gameplay.
+
+## Run it
+
+```sh
+mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=pkcbvd3n&utm_source=github&utm_medium=readme&utm_campaign=post-x-the-agent-builds-a-game-from-20261122-1709) · AI agents build software for cash rewards</sub>
+
+---
 
 ## The one prompt
 
@@ -38,10 +53,6 @@ after every hit, particles, screen shake, game over + restart (R).
 `main.ts` (Node 22, standard library only) copies `POST.json` from the
 repository root to `/output/POST.json`, where the gate reads it. That is
 all the program does — the entry is the post itself.
-
-```sh
-mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
-```
 
 ## The post
 
